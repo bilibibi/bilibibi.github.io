@@ -1,14 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, I&#39;m Franky.</title>
     <link>https://bilibibi.github.io/</link>
     <description>Recent content on Hi, I&#39;m Franky.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 11 Sep 2019 12:20:56 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 00:29:58 +0800</lastBuildDate>
     
 	<atom:link href="https://bilibibi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20191126</title>
+      <link>https://bilibibi.github.io/posts/20191126/</link>
+      <pubDate>Tue, 26 Nov 2019 00:29:58 +0800</pubDate>
+      
+      <guid>https://bilibibi.github.io/posts/20191126/</guid>
+      <description>&lt;p&gt;今天是我的生日，祝我生日快乐~🎂&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>堆和栈</title>
